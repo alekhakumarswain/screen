@@ -7,7 +7,7 @@ PS1='\[\e[31m\]┌─[\[\e[37m\]\T\[\e[31m\]]─────\e[1;93m[root]\e[0;3
 clear
 echo -e "Created By \e[  alekhakumarswain"
 echo "----------------------------" | lolcat
-echo -e "\e[1mInstagram :@ alekhakumarswain6868"
+echo -e "\e[1mInstagram :@ alekhakumarswainraja"
 echo -e "\e[1mGithub: github.com/alekhakumarswain/"
 echo "----------------------------" | lolcat
 echo "
