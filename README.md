@@ -6,7 +6,7 @@
 apt update
 apt install git -y
 git clone https://github.com/alekhakumarswain/screen
-cd termux-shell
+cd screen
 chmod +x *
 sh install.sh
 exit
